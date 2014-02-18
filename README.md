@@ -5,4 +5,7 @@ Mappa per report Monithon - Anello Ferroviario Palermo
 
 Oggetto dell'indagine è l'**Anello Ferroviario** di Palermo: http://opencoesione.gov.it/progetti/1si630/
 
-Io ho realizzato con Mapbox.js una **mappa** che serve a inquadrare l'opera nel contesto geografico, che è possibile visualizzare [qui](http://siciliahub.github.io/monithon_oddit14/).
+Ho realizzato con Mapbox.js una **mappa** per inquadrare l'opera nel contesto geografico. E' possibile visualizzarla [qui](http://siciliahub.github.io/monithon_oddit14/).
+
+
+![ScreenShot](https://raw2.github.com/SiciliaHub/monithon_oddit14/master/imgs/2014-02-18_23h15_19.png))
