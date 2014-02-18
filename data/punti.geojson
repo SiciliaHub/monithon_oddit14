@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Imperatore Federico", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.349122656650339, 38.145266437595417 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Stazione", "Nome": "Fiera", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.35365115648931, 38.141252742666822 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Politeama", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.356021814203366, 38.124404587980123 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Malaspina", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.346037971382287, 38.125432760841299 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Porto", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.362310653512615, 38.129332732474275 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Giachery", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.358495638339711, 38.135240409747638 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Fermata", "Nome": "Libertà", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.342430752483807, 38.143455425937574 ] } },
+{ "type": "Feature", "properties": { "id": null, "Tipo": "Stazione", "Nome": "Notarbartolo", "Etichetta": null }, "geometry": { "type": "Point", "coordinates": [ 13.342013848579674, 38.132529136106044 ] } }
+]
+}
