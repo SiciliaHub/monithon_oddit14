@@ -8,4 +8,4 @@ Oggetto dell'indagine è l'**Anello Ferroviario** di Palermo: http://opencoesion
 Ho realizzato con Mapbox.js una **mappa** per inquadrare l'opera nel contesto geografico. E' possibile visualizzarla [qui](http://siciliahub.github.io/monithon_oddit14/).
 
 
-![ScreenShot](https://raw2.github.com/SiciliaHub/monithon_oddit14/master/imgs/2014-02-18_23h15_19.png))
+![ScreenShot](https://raw2.github.com/SiciliaHub/monithon_oddit14/master/imgs/2014-02-18_23h15_19.png)
