@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="punti" id="punti">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Tipo" type="string"></SimpleField>
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>punti</name>
+  <Placemark>
+	<name>0</name>
+	<description>Fermata: Imperatore Federico</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Imperatore Federico</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.349122656650339,38.145266437595417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+	<description>Stazione: Fiera</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Stazione</SimpleData>
+		<SimpleData name="Nome">Fiera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.35365115648931,38.141252742666822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>Fermata: Politeama</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Politeama</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.356021814203366,38.124404587980123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>Fermata: Malaspina</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Malaspina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.346037971382287,38.125432760841299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>Fermata: Porto</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Porto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.362310653512615,38.129332732474275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>Fermata: Giachery</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Giachery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.358495638339711,38.135240409747638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>Fermata: Libertà</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Fermata</SimpleData>
+		<SimpleData name="Nome">Libertà</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.342430752483807,38.143455425937574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>Stazione: Notarbartolo</description>
+	<ExtendedData><SchemaData schemaUrl="#punti">
+		<SimpleData name="Tipo">Stazione</SimpleData>
+		<SimpleData name="Nome">Notarbartolo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.342013848579674,38.132529136106044</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
